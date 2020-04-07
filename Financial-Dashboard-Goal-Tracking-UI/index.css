@@ -273,8 +273,6 @@ body {
     -webkit-transform: translateY(0);
             transform: translateY(0);
     opacity: 1;
-    -webkit-box-shadow: 1px 10px 1px black;
-            box-shadow: 1px 10px 1px black;
   }
 }
 
@@ -288,8 +286,6 @@ body {
     -webkit-transform: translateY(0);
             transform: translateY(0);
     opacity: 1;
-    -webkit-box-shadow: 1px 10px 1px black;
-            box-shadow: 1px 10px 1px black;
   }
 }
 
